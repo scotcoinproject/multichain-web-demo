@@ -1,4 +1,4 @@
-This version forked by scotcoinproject (scotcoin@gmail.com)
+This version forked by scotcoinproject - scotcoin@gmail.com
 
 MultiChain Web Demo
 ===================
