@@ -1,3 +1,5 @@
+This version forked by scotcoinproject (scotcoin@gmail.com)
+
 MultiChain Web Demo
 ===================
 
